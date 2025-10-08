@@ -27,8 +27,8 @@ This assignment demonstrates practical skills in Oracle Multitenant Database Adm
   - `dba_users` to confirm user creation  
 - Configured PDB to auto-open at startup  
 
-**Screenshots / Verification:**  
-Screenshot 2025-10-08 124311.png
+**Screenshots / Verification:** 
+![alt text](<Screenshot 2025-10-08 124311.png>)
 - PDB is in `READ WRITE` mode  
 - User successfully created  
 
@@ -78,5 +78,6 @@ The permanent PDB `do_pdb_27549` is fully functional and ready for PL/SQL course
 
 **Docile Uwizeye**  
 **Student ID:** 27549
+
 
 
