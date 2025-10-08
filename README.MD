@@ -40,7 +40,7 @@ This assignment demonstrates practical skills in Oracle Multitenant Database Adm
 - Closed and dropped using `INCLUDING DATAFILES`  
 - Verified only permanent PDB remains  
 
-**Screenshots / Verification:**
+**Screenshots / Verification:**  
 ![alt text](<Screenshot 2025-10-08 124503.png>)
 - Temporary PDB created  
 - Both PDBs displayed  
@@ -81,6 +81,7 @@ The permanent PDB `do_pdb_27549` is fully functional and ready for PL/SQL course
 
 **Docile Uwizeye**  
 **Student ID:** 27549
+
 
 
 
